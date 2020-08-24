@@ -3,4 +3,7 @@ def find_even_values(src)
   #
   # Output all even values in each nested array
 
+
+src.select {|number|.number.even?
+
 end
